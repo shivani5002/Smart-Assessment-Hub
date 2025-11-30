@@ -62,7 +62,7 @@
         <h1>Smart Assessment Hub</h1>
         <p>Welcome! Get started with registration or login to continue.</p>
 
-        <a href="registration.jsp" class="register">Register for Exam</a>
+        <a href="registration.jsp" class="register">Register for Exam!</a>
         <a href="login.jsp" class="login">Login</a>
     </div>
 </body>
